@@ -1,0 +1,11 @@
+.menu-topo {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-topo li {
+  float: left;
+  padding: 10pt;
+  color: white;
+}

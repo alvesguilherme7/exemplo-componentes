@@ -1,0 +1,64 @@
+h2,
+h3,
+li,
+a {
+  font-family: "Work Sans", sans-serif;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin-top: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 10% 0 10%;
+}
+
+.cor-principal-bg {
+  background-color: #0464b7;
+  border-radius: 4pt;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 150pt;
+  height: 150pt;
+}
+
+.second-color {
+  color: #fff;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.w-50 {
+  width: 48%;
+  padding: 2%;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-center {
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
