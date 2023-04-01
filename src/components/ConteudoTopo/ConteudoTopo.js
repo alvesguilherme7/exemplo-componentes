@@ -4,12 +4,12 @@ export default function ConteudoTopo() {
       <div className="w-50">
         <img
           className="img-circle"
-          src="https://avatars.githubusercontent.com/u/44094424?s=400&u=1a0b1e759663c45338d44ba86e93fc02cc2c1195"
+          src="https://oempregoeseucom.files.wordpress.com/2020/05/fae6a-como-inserir-o-trabalho-em-equipe-entre-os-professores-gettyimages.jpg?w=1280"
           alt="logo"
         />
       </div>
       <div className="w-50 text-left">
-        <h3>Guilherme Alves</h3>
+        <h3>Guilherme Alves, Lucas Neto e Thiago Holder</h3>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a magna
           a diam commodo tincidunt cursus eget odio. Nullam placerat justo ut
